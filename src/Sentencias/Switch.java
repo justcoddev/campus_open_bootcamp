@@ -5,7 +5,7 @@ public class Switch {
 
         String dia = "Martes";
 
-        switch(dia){
+        switch (dia) {
             case "Lunes":
                 System.out.println("Hoy es Lunes!! Animo!!");
                 break;
