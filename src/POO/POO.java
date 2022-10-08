@@ -1,3 +1,5 @@
+package POO;
+
 public class POO {
     public static void main(String[] args) {
         Coche coche = new Coche(2, 90);
